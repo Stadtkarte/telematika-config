@@ -4,8 +4,8 @@
 
 # Property used on app startup to check the config server status
 configserver:
-    name: Terminal Manager Config Service
-    status: Connected to the Terminal Manager Registry config server.
+    name: Telematika Config Service
+    status: Connected to the Telematika Registry config server.
 
 jhipster:
     security:
